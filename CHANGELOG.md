@@ -1,3 +1,8 @@
+## v3.0.0
+
+*
+
+
 ## v2.0.0
 
 * Added support for iPizza services (`1011`, `1012`, `4011` and `4012`). Read more form [Estonian Banking Association webpage](http://pangaliit.ee/et/arveldused/pangalingi-spetsifikatsioon)

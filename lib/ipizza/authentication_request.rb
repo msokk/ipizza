@@ -1,4 +1,2 @@
-module Ipizza
-  class AuthenticationRequest < Ipizza::Request
-  end
+class Ipizza::AuthenticationRequest < Ipizza::Message
 end

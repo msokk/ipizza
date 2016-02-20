@@ -1,4 +1,2 @@
-module Ipizza
-  class PaymentRequest < Ipizza::Request
-  end
+class Ipizza::PaymentRequest < Ipizza::Message
 end

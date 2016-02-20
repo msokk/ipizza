@@ -1,0 +1,25 @@
+swedbank:
+  bank_snd_id: HP
+  payment_url: https://www.swedbank.ee/banklink
+
+seb:
+  bank_snd_id: EYP
+  payment_url: https://www.seb.ee/cgi-bin/unet3.sh/un3min.r
+
+nordea:
+  bank_snd_id: HP
+  payment_url: https://netbank.nordea.com/pnbepaytest/epayp.jsp
+  mobile_payment_url: https://netbank.nordea.com/pnbwapepay/epayp.jsp
+
+lhv:
+  bank_snd_id: LHV
+  payment_url: https://www.lhv.ee/banklink
+
+danske:
+  bank_snd_id: SAMPOPANK
+  payment_url: https://www2.danskebank.ee/ibank/pizza/pizza
+
+krediidipank:
+  bank_snd_id: KREP
+  payment_url: https://i-pank.krediidipank.ee/pay
+  authentication_url: https://i-pank.krediidipank.ee/auth
